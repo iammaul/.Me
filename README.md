@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maulana-00
-- 👀 I’m interested in web developmen and programming
-- 🌱 I’m currently learning about front-end and back-end dev
+- 👀 I’m interested in Design, networking, programming and linux
+- 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on (IM still study)
 - 📫 How to reach me amandamaulana00@gmail.com
 
