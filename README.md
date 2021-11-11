@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iammaul
 - 👀 I’m interested in Design, networking, programming and linux
-- 🌱 I’m currently learning python language
+- 🌱 I’m currently learning anything haha
 - 💞️ I’m looking to collaborate on (IM still study)
 - 📫 How to reach me amandamaulana00@gmail.com
 
