@@ -5,7 +5,7 @@ def name():
     name = ['Muhammad',2,'Amanda',False,98,'Maulana','Malik','Ibrahim']
     name.remove(2), name.remove(False), name.remove(98)
     print('Halo, ')
-    print('Nama : ', name)
+    print('Perkenalkan, saya ', name)
 
 def age():
     import datetime as dt
