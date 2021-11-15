@@ -31,6 +31,4 @@ name()
 border()
 age()
 border()
-team = 'MARGILIM' [:: -1]
-print('Saya dari kelompok '+team)
 
